@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #475d8a;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+.buttons
+         {
+            margin-bottom: 40px;
+            color: blue;
+         }
+
+         button{
+            font-size: 40px;
+         }
+
